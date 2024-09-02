@@ -1,0 +1,13 @@
+.box {
+  /* background-color: rgb(41, 4, 75); */
+  width: 210px;
+  min-height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.box img {
+  width: 70%;
+  height: 70%;
+}
